@@ -5,6 +5,7 @@ idées:
   - Perceptual salience
 - [Analyse du discours](https://en.wikipedia.org/wiki/Discourse_analysis)
 - [Attribution bias](https://en.wikipedia.org/wiki/Attribution_bias)
+- groupe frontières perméables...
  
 # [Becode bruxelles](http://register.becode.org/): simplon à la sauce mayo...
 
@@ -24,4 +25,4 @@ participants (coachs et apprenant), un temps qui sera toujours présent en filig
 
 
 
-*definition fullStack
+
