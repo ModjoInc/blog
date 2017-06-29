@@ -22,7 +22,15 @@ Débute alors un temps de création, d'invention et de réinvention d'un espace 
 participants (coachs et apprenant), un temps qui sera toujours présent en filigrane. 
 
 
+[...]
+disparités entre compétences
+cohésion du groupe soumis à des dissenssions constantes
+ - test des limites par remises en questions de ces limites...
+ - réappropriation de l'espace en tentant d'y injecter du connu
+ 
+Question de 'comment demander de l'aide sans remettre en cause son statut supposé dans le groupe, légitimité de cette démarche de recherche d'aide, bienveillance fantasmée du groupe et place de l'échec
 
+les groupes de parole et leur implémentation
 
 
 
